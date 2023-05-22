@@ -1,6 +1,7 @@
 # Bowling-Game
 
 This is the Bowling-game-kata kata in TypeScript.
+- https://kata-log.rocks/bowling-game-kata
 
 ## Getting started
 
