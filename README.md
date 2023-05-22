@@ -1,4 +1,4 @@
-# Gilded Rose
+# Bowling-Game
 
 This is the Bowling-game-kata kata in TypeScript.
 
